@@ -2,6 +2,7 @@
 
 namespace Common
 {
+    [System.Serializable]
     public class Prs
     {
         public Vector3 pos = new();

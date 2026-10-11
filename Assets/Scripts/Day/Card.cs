@@ -7,8 +7,5 @@ namespace Day
     {
         [Header("Card Data")]
         public CardData cardData;
-        
-        
-        
     }
 }

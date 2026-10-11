@@ -3,6 +3,7 @@ using UnityEngine;
 
 namespace Day
 {
+    [System.Serializable]
     public class CardData
     {
         public CardMainTypeEnum mainType = CardMainTypeEnum.Major;
